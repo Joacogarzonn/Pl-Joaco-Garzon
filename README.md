@@ -1,4 +1,6 @@
-![img jpg](https://github.com/Joacogarzonn/ISPC/assets/166737211/8a57e75f-d8dd-4fd6-8782-6a069555b063)
+![Prueba ISPC portada 2024](https://github.com/Joacogarzonn/Pl-Joaco-Garzon/assets/166737211/b1b30073-815b-4766-843f-09247130784a)
+
+
 # Proyecto Integrador
 - Alumno: Joaquin Garzón
 - Profesor: Gonzalo Vera
